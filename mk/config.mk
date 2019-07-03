@@ -486,3 +486,5 @@ endif
 
 # Enables backwards compatible derivation of RPMB and SSK keys
 CFG_CORE_HUK_SUBKEY_COMPAT ?= y
+
+# Test
